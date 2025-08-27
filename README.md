@@ -12,6 +12,7 @@ This portfolio highlights my projects in **Software Development, and Machine Lea
 - Models: **SVM (63%)**, **RoBERTa Pre-trained (55.6%)**, **RoBERTa Fine-tuned (66.8%)**  
 - Technologies: Python, Scikit-learn, PyTorch, HuggingFace Transformers  
 - 📄 [Project Report] [Sentiment Analysis Report)](https://github.com/JeremyL03/Sentiment-Analysis-NLP/blob/adb730e613875eff39938aa7af7acf9b2a149e68/Sentiment%20Analysis%20Reviewer.pdf)
+- 📄 [Project Code] (https://github.com/JeremyL03/Car-Model-Classifier-CVNLP/blob/4a9a6891750c5c4477ff6ecfb873cffe606b29ee/Car_Model_Classifier.ipynb)
 
 ---
 
