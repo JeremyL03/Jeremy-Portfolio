@@ -24,8 +24,9 @@ This portfolio highlights my projects in **Software Development, and Machine Lea
 - A modern recreation of **Pong**, built with **JavaFX** and **OOP principles**  
 - Features: Login/Guest modes, Settings, Game, Pause, and Results screens  
 - Technologies: Java, JavaFX, Scene Builder  
-- 📄 [Project Report] ([Pong Game with JavaFX.pdf](https://github.com/JeremyL03/Pong-Game-JavaFx/blob/ec98e4d22880f4af5b273c3b99a559c264565b6c/Pong%20Game%20with%20JavaFX.pdf))
-- 📄 [Project Code]  (https://github.com/JeremyL03/Pong-Game-JavaFx/blob/ec98e4d22880f4af5b273c3b99a559c264565b6c/JavaFx-PongGame.zip)
+- 📄 [Project Report] ([Pong Game with JavaFX.pdf](https://github.com/JeremyL03/Pong-Game-JavaFx/blob/368fe946189768d2644e1b02dd2edbbb2076e168/Pong%20Game%20Report.pdf))
+- 📄 [Project Code]  Simulation -> (https://github.com/JeremyL03/Pong-Game-JavaFx/blob/368fe946189768d2644e1b02dd2edbbb2076e168/Pong%20Game%20(Simulation).zip)
+- 📄 [Project Code]  UI         -> (https://github.com/JeremyL03/Pong-Game-JavaFx/blob/368fe946189768d2644e1b02dd2edbbb2076e168/Pong%20Game%20(UI).zip))
 
 ---
 
