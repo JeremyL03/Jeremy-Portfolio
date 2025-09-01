@@ -46,4 +46,5 @@ This portfolio highlights my projects in **Software Development, and Machine Lea
 
 ## 📫 Contact
 - **Email**: leejeremy456@gmail.com
+- **Phone No.**: 011-1123-9873
 - **GitHub**: [github.com/JeremyL03](https://github.com/JeremyL03) 
