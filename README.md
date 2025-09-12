@@ -10,9 +10,9 @@ This portfolio highlights my projects in **Software Development, and Machine Lea
 ### 📖 [Sentiment Analysis of Amazon Kindle Reviews]
 (https://github.com/JeremyL03/Sentiment-Analysis-NLP.git)
 
-- **NLP + Machine Learning project** classifying book reviews as Positive, Neutral, or Negative  
+- **NLP + Machine Learning project** - classifying book reviews as Positive, Neutral, or Negative  
 - Models: **SVM (63%)**, **RoBERTa Pre-trained (55.6%)**, **RoBERTa Fine-tuned (66.8%)**  
-- Technologies: Python, Scikit-learn, PyTorch, HuggingFace Transformers  
+- Tech Stack: Python, Scikit-learn, PyTorch, HuggingFace Transformers  
 
 ---
 
@@ -21,7 +21,7 @@ This portfolio highlights my projects in **Software Development, and Machine Lea
 
 - A modern recreation of **Pong**, built with **JavaFX** and **OOP principles**  
 - Features: Login/Guest modes, Settings, Game, Pause, and Results screens  
-- Technologies: Java, JavaFX, Scene Builder  
+- Tech Stack: Java, JavaFX, Scene Builder  
 
 ---
 
@@ -30,7 +30,7 @@ This portfolio highlights my projects in **Software Development, and Machine Lea
 
 - Computer Vision Project using Convolutional Neural Networks (CNNs) to classify car models from images.
 - Models: Compared VGG-16 and AlexNet architectures, with VGG-16 achieving the highest accuracy of 66.16%.
-- Technologies: Python, Convolutional Neural Networks, Transfer Learning.
+- Tech Stack: Python, Convolutional Neural Networks, Transfer Learning.
 
   
 ---
