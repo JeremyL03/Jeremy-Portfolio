@@ -1,4 +1,5 @@
-### Hi! I’m **Jeremy Lee Ming Heng**, an aspiring Computer Science student, based in Malaysia
+### Hi! I’m **Jeremy Lee Ming Heng**, an aspiring Computer Science student, currently in my final year in Taylor's University.
+
 This portfolio highlights my projects in **Software Development, and Machine Learning**. 
 
 ---
