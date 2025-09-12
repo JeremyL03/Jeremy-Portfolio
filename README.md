@@ -29,7 +29,7 @@ This portfolio highlights my projects in **Software Development, and Machine Lea
 (https://github.com/JeremyL03/Car-Model-Classifier-CVNLP.git)
 
 - Computer Vision Project using Convolutional Neural Networks (CNNs) to classify car models from images.
-- Models: Compared VGG-16 and AlexNet architectures, with VGG-16 achieving the highest accuracy of 66.16%.
+- Models: Compared VGG-16 and AlexNet architectures, with VGG-16.
 - Tech Stack: Python, Convolutional Neural Networks, Transfer Learning.
 
   
