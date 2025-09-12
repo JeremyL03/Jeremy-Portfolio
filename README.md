@@ -1,5 +1,3 @@
-# 💻 Jeremy Lee – Portfolio
-
 Hi! I’m **Jeremy Lee Ming Heng**, a Computer Science student specializing in **Cybersecurity and AI**.  
 This portfolio highlights my projects in **Software Development, and Machine Learning**. 
 
