@@ -1,4 +1,4 @@
-### Hi! I’m **Jeremy Lee Ming Heng**, an aspiring Computer Science student
+### Hi! I’m **Jeremy Lee Ming Heng**, an aspiring Computer Science student, based in Malaysia
 This portfolio highlights my projects in **Software Development, and Machine Learning**. 
 
 ---
