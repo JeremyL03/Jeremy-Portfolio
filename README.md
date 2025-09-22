@@ -12,4 +12,4 @@
 ---
 
 ### Portfolio
-You can view more info at [My Portfolio](https://your-portfolio-link.com)
+You can view more info at [My Portfolio]([https://your-portfolio-link.com](https://your-portfolio-link.com))
