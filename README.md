@@ -7,7 +7,7 @@
 ### About Me
 - **Fullstack Developer** based in Malaysia  
 - Currently in my **final year of Computer Science** at **Taylor's University**  
-- This GitHub contains projects I work on  
+- This GitHub contains projects I have worked on  
 
 ---
 
