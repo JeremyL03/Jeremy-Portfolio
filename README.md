@@ -1,4 +1,4 @@
-# Hi, I'm {{NAME}} 👋
+# Hi, I'm Jeremy 👋
 
 **Cybersecurity — detection engineering & applied security ML.**
 
@@ -15,12 +15,12 @@ Final-year Computer Science student. I build systems that *find* threats: produc
 ### Cloud SIEM — multi-source security monitoring *(production)*
 Designed and operated a single-host SIEM (**Wazuh + Vector + OpenSearch**) ingesting live security and operational telemetry from multiple cloud sources — cloud-metric alarms, web-application-firewall events, host-security alerts, and network-device syslog. Built the full ingestion/normalization pipeline, 20+ custom detection rules with severity tiering, anomaly detection, alarm correlation, and operator dashboards.
 
-*Solo build in a real production environment.* → **[Read the case study]({{PAGES_URL}}/siem)**
+*Solo build in a real production environment.* → **[Read the case study](https://jeremyl03.github.io/siem)**
 
 ### FlagIt — real-time, on-device phishing detection
 A privacy-first browser extension that detects phishing in email and messaging **entirely on-device** — no message content ever leaves the browser. Semantic analysis via **BERT-LSTM + XGBoost** exported to **ONNX** for in-browser inference, integrated with Gmail, Outlook, Telegram, and Teams.
 
-`Python · ONNX · BERT-LSTM · XGBoost · Browser Extension` → **[Repo]({{FLAGIT_REPO}})**
+`Python · ONNX · BERT-LSTM · XGBoost · Browser Extension` → **[Repo](https://github.com/JeremyL03/flagit-simulator-zero-trust-encryption-)**
 
 ---
 
@@ -34,9 +34,6 @@ A privacy-first browser extension that detects phishing in email and messaging *
 
 ---
 
-## 📫 Reach me
-- Portfolio: **[{{PAGES_URL}}]({{PAGES_URL}})**
-- LinkedIn: **[{{LINKEDIN}}]({{LINKEDIN}})**
-- Email: **{{EMAIL}}**
-### Portfolio
-You can view more info at [My Portfolio](https://jeremyl03.github.io/portfolio/)
+## 📫 Find me
+- 💻 GitHub: **[@JeremyL03](https://github.com/JeremyL03)**
+- 🌐 Portfolio: **[jeremyl03.github.io](https://jeremyl03.github.io/portfolio/)**
